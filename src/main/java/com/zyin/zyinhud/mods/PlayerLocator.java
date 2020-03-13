@@ -141,7 +141,7 @@ public class PlayerLocator extends ZyinHUDModBase {
     /**
      * The constant maxViewDistanceCutoff.
      */
-    public static final int maxViewDistanceCutoff = 130;    //realistic max distance the game will render entities: up to ~115 blocks away
+    public static final int maxViewDistanceCutoff = 130000;    //realistic max distance the game will render entities: up to ~115 blocks away
 
     /**
      * The constant numOverlaysRendered.
